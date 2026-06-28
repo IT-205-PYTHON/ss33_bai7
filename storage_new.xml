@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="GameSCIDSocial">TRUE</string>
+    <string name="music_env3">true</string>
+    <string name="SCID_PROD_CURRENT_ACCOUNT_SUPERCELL_ID">67-1ad858e4-88af-40f4-93ab-3163b5e45cc8</string>
+    <string name="NEWS_TIMESTAMP">1777455233</string>
+    <string name="PLAY_REFERRER_REFERRER_URL">utm_source=google-play&utm_medium=organic</string>
+    <string name="lower_env3">40062204</string>
+    <string name="AllowStorePromotion_1_44824076">FALSE</string>
+    <string name="AgeSentToScid">970963200</string>
+    <string name="PLAY_REFERRER_QUERIED">1</string>
+    <string name="SCID_PROD_HAS_USED_SUPERCELL_ACCOUNT">true</string>
+    <string name="current_loading_screen">cache:/events/482585ed-8227-486c-9467-67a195ebe9df_loading_screen_lamb2.sc</string>
+    <string name="YoungPlayerKnown">true</string>
+    <string name="SCID_PROD_ACCOUNTS">{"25-17ae77d2-7bfa-426a-a958-460c403d4271":{"supercellId":"25-17ae77d2-7bfa-426a-a958-460c403d4271","email":"","token":"eyJraWQiOiJjNzVhN2Y4M2U5MzMiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9.eyJpc3MiOiJpZC5zdXBlcmNlbGwuY29tIiwiaWF0IjoxNzc4NjYwODk2LCJzdWIiOiIyNS0xN2FlNzdkMi03YmZhLTQyNmEtYTk1OC00NjBjNDAzZDQyNzEiLCJodHRwczovL2lkLnN1cGVyY2VsbC5jb20vdHlwZSI6ImFjY291bnQiLCJodHRwczovL2lkLnN1cGVyY2VsbC5jb20vYXBwIjoic29pbCIsImh0dHBzOi8vaWQuc3VwZXJjZWxsLmNvbS9hcHBFbnYiOiJwcm9kIiwiaHR0cHM6Ly9pZC5zdXBlcmNlbGwuY29tL2FwcEFjY291bnRJZCI6IjEtNDQ4MjQwNzYiLCJzY2lkIjoiMjUtMTdhZTc3ZDItN2JmYS00MjZhLWE5NTgtNDYwYzQwM2Q0MjcxIiwiZ2FtZSI6InNvaWwiLCJlbnYiOiJwcm9kIiwicGlkIjoiMS00NDgyNDA3NiIsImh0dHBzOi8vaWQuc3VwZXJjZWxsLmNvbS9ndWVzdCI6dHJ1ZSwiaHR0cHM6Ly9pZC5zdXBlcmNlbGwuY29tL2luaXRpYWxSZWZyZXNoVG9rZW5Jc3N1ZWRBdCI6MTc3ODY2MDg5Nn0.nMH31LG0TPECDumZhx9XaRvwd7QYiVprrszLb2I2YLOEgc3U4PSNcPLN0nsmK4sRWMzJCZ8vCeCAOvRIyWgP6A","forget":true},"67-1ad858e4-88af-40f4-93ab-3163b5e45cc8":{"supercellId":"67-1ad858e4-88af-40f4-93ab-3163b5e45cc8","email":"huynhthihienpy77@gmail.com","token":"eyJraWQiOiJjNzVhN2Y4M2U5MzMiLCJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiJ9.eyJpc3MiOiJpZC5zdXBlcmNlbGwuY29tIiwiaWF0IjoxNzc4NjYwOTM0LCJzdWIiOiI2Ny0xYWQ4NThlNC04OGFmLTQwZjQtOTNhYi0zMTYzYjVlNDVjYzgiLCJodHRwczovL2lkLnN1cGVyY2VsbC5jb20vdHlwZSI6ImFjY291bnQiLCJodHRwczovL2lkLnN1cGVyY2VsbC5jb20vYXBwIjoic29pbCIsImh0dHBzOi8vaWQuc3VwZXJjZWxsLmNvbS9hcHBFbnYiOiJwcm9kIiwiaHR0cHM6Ly9pZC5zdXBlcmNlbGwuY29tL2FwcEFjY291bnRJZCI6IjEwLTQwMDYyMjA0Iiwic2NpZCI6IjY3LTFhZDg1OGU0LTg4YWYtNDBmNC05M2FiLTMxNjNiNWU0NWNjOCIsImdhbWUiOiJzb2lsIiwiZW52IjoicHJvZCIsInBpZCI6IjEwLTQwMDYyMjA0IiwiaHR0cHM6Ly9pZC5zdXBlcmNlbGwuY29tL2luaXRpYWxSZWZyZXNoVG9rZW5Jc3N1ZWRBdCI6MTc3ODY2MDkzNH0.H54_z4lmZrKqdNNZJCs1zYhzU6RYSn52-ej61ZT3UU7eXibvAvLGutO4D97mYIF6clZ6VXB4uVsSE1oJevK1CA"}}</string>
+    <string name="PLAY_REFERRER_REFERRER_CLICK_TIME">0</string>
+    <string name="INSTALL_ID">8EmLgN7c</string>
+    <string name="language_code_env3">VI</string>
+    <string name="higher_env3">10</string>
+    <string name="CachedLocation">VN</string>
+    <string name="GoogleFirstLogin">TRUE</string>
+    <string name="sounds_env3">true</string>
+    <string name="good_performance_env3">true</string>
+    <string name="PLAY_REFERRER_INSTANT_APP_LAUNCHED">0</string>
+    <string name="titan.deviceinformation.sent">v1</string>
+    <string name="tier_env3">1</string>
+    <string name="current_loading_screen_end">1780300800</string>
+    <string name="passToken_env3">jx4bnat9t2nh8a4tfwhhhesg8y97tr2jj6pyzdey</string>
+    <string name="PLAY_REFERRER_INSTALL_TIME">0</string>
+</map>
